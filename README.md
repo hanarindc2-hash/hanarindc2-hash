@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 76ff7af3d893a98087b388cf7998d9ce7035def4
 <!-- GitHub profile README · Copy this entire file into your profile repository. -->
 
 <!-- Badge colors: charcoal 252A34 · teal 367C7A · bronze 94704B -->
@@ -26,6 +29,22 @@
 01 / Design foundation
 <table> <tr> <td width="50%" align="center"> <h3>◯ &nbsp; Industrial Experience Design</h3> <p>Major · Hansung University</p> </td> <td width="50%" align="center"> <h3>◇ &nbsp; Game Graphic Design</h3> <p>Major · Hansung University</p> </td> </tr> </table>
 
+<<<<<<< HEAD
+=======
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>◯ &nbsp; Industrial Experience Design</h3>
+      <p>Major · Hansung University</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>◇ &nbsp; Game Graphic Design</h3>
+      <p>Major · Hansung University</p>
+    </td>
+  </tr>
+</table>
+
+>>>>>>> 76ff7af3d893a98087b388cf7998d9ce7035def4
 02 / Learning journey
 When	Where / What	Focus
 2020–2026	🎓 Hansung University, Korea	Industrial Experience Design & Game Graphic Design
@@ -46,4 +65,11 @@ Channel	Contact
 🌐 Social	Instagram · Behance · Threads · X
 <!-- Replace the social names above with [Name](your-profile-URL) when ready. -->
 
+<<<<<<< HEAD
 <p align="center"> <strong>Better experiences. Better future.</strong><br> <sub>Let’s create it together.</sub> </p>
+=======
+<p align="center">
+  <strong>Better experiences. Better future.</strong><br>
+  <sub>Let’s create it together.</sub>
+</p>
+>>>>>>> 76ff7af3d893a98087b388cf7998d9ce7035def4
